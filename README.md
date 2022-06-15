@@ -11,9 +11,7 @@
 [<img align="left" alt="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>](https://firebase.google.com)
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>](https://kotlinlang.org)
 
-</br>
-</br>
-</br>
+---
 
 ### Recent YouTube videos
 
