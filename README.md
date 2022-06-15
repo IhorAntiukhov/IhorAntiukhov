@@ -1,8 +1,8 @@
-## Hello, I'm [IhorAntiukhov](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ)
+## Hello, I'm [IhorAntiukhov](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ) :wave:
 
 ### I develop *Android* apps, work with *ESP32* and *ESP8266* boards, create 3D models for printing on a *3D printer* and make videos about it all on *YouTube*
 
----
+___
 
 ### Skills and Tools
 
@@ -12,7 +12,7 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>](https://kotlinlang.org)
 
 </br>
-</br>
+___
 </br>
 
 ### Recent YouTube videos
@@ -27,7 +27,7 @@
 
 [more videos](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ)
 
----
+___
 
 ### You can contact me:
 
