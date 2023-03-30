@@ -1,6 +1,6 @@
 ## Hello, I'm [IhorAntiukhov](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ) :wave:
 
-### I develop *Android* apps, work with *ESP32* and *ESP8266* boards, create 3D models for printing on a *3D printer* and make videos about it all on *YouTube*
+### I develop *Android* apps, work with *ESP32* and *ESP8266* boards, create 3D models for printing on a *3D printer* and make videos about it all on *YouTube*. I am currently learning *HTML CSS and JavaScript*.
 
 ____
 
@@ -10,6 +10,9 @@ ____
 [<img align="left" alt="Arduino" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>](https://www.arduino.cc)
 [<img align="left" alt="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>](https://firebase.google.com)
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>](https://kotlinlang.org)
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
 </br>
 </br>
