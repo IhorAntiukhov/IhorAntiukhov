@@ -1,38 +1,41 @@
-## Hello, I'm [IhorAntiukhov](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ) :wave:
+<div align="center">
+<h1>Hi, I'm Ihor Antiukhov <img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" width="40"></h1>
+<h3>I am learning <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> to build frontend applications. I currently live in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/255px-Flag_of_Ukraine.svg.png" width="18"> Ukraine.</h3>
 
-### I develop *Android* apps, work with *ESP32* and *ESP8266* boards, create 3D models for printing on a *3D printer* and make videos about it all on *YouTube*. I am currently learning *HTML CSS and JavaScript*.
+<a href="https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://t.me/ihorantiukhov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
 
-____
+## About me
 
-### Skills and Tools
++ :computer: I'm currently learning **JavaScript**
++ :camera: I used to make videos on **YouTube**
++ :robot: I have done a lot of **Arduino** projects
++ :iphone: I used to create **Android** apps in Kotlin
 
-[<img align="left" alt="Android" width="28px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"/>](https://developer.android.com/studio)
-[<img align="left" alt="Arduino" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>](https://www.arduino.cc)
-[<img align="left" alt="Firebase" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>](https://firebase.google.com)
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>](https://kotlinlang.org)
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+## Languages and tools
 
-</br>
-</br>
-</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### Recent YouTube videos
+## GitHub stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IhorAntiukhov&theme=react)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IhorAntiukhov&theme=react)
+![All Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IhorAntiukhov&theme=react)
+
+## Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-- [Умный дом из предыдущих проектов на ESP8266 и ESP32](https://www.youtube.com/watch?v=ObBi3VIdf44)
-- [Умный WiFi обогреватель поддерживающий температуру на ESP8266](https://www.youtube.com/watch?v=4tR2fXaSKr4)
-- [Считывание показаний счётчика на ESP32-CAM](https://www.youtube.com/watch?v=txgsXdb_OfQ)
 - [Умный звонок на ESP32 CAM + Android приложение](https://www.youtube.com/watch?v=1FJSTyXEtSo)
 - [Делаем умный ИК пульт на ESP8266 + Android приложение](https://www.youtube.com/watch?v=lcF6zeZ8F9g)
+- [Система управления котлом и бойлером на ESP8266 через Android приложение](https://www.youtube.com/watch?v=cq129xrJ70Y)
+- [Делаем уличный WiFi термометр на ESP8266 + Android приложение](https://www.youtube.com/watch?v=DzB9ES87Y24)
+- [ESP32 CAM отправка видео на Telegram + сигнализация движения](https://www.youtube.com/watch?v=zScDrxy6sTA)
 <!-- YOUTUBE:END -->
 
 [more videos](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ)
-
-____
-
-### You can contact me:
-
-[<img align="left" alt="YouTube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ)
-[<img align="left" alt="Telegram" width="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"/>](https://t.me/IhorAntiukhov)
