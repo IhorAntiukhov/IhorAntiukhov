@@ -31,11 +31,11 @@
 ## Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Умный дом из предыдущих проектов на ESP8266 и ESP32](https://www.youtube.com/watch?v=ObBi3VIdf44)
+- [Умный WiFi обогреватель поддерживающий температуру на ESP8266](https://www.youtube.com/watch?v=4tR2fXaSKr4)
+- [Считывание показаний счётчика на ESP32-CAM](https://www.youtube.com/watch?v=txgsXdb_OfQ)
 - [Умный звонок на ESP32 CAM + Android приложение](https://www.youtube.com/watch?v=1FJSTyXEtSo)
 - [Делаем умный ИК пульт на ESP8266 + Android приложение](https://www.youtube.com/watch?v=lcF6zeZ8F9g)
-- [Система управления котлом и бойлером на ESP8266 через Android приложение](https://www.youtube.com/watch?v=cq129xrJ70Y)
-- [Делаем уличный WiFi термометр на ESP8266 + Android приложение](https://www.youtube.com/watch?v=DzB9ES87Y24)
-- [ESP32 CAM отправка видео на Telegram + сигнализация движения](https://www.youtube.com/watch?v=zScDrxy6sTA)
 <!-- YOUTUBE:END -->
 
 [more videos](https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ)
