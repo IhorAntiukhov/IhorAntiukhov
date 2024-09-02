@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Ihor Antiukhov <img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" width="40"></h1>
-<h3>My main skills are developing Web applications using React and TypeScript.<br>I currently live in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/255px-Flag_of_Ukraine.svg.png" width="18"> Ukraine.</h3>
+<h3>I develop Full Stack applications using Next.js and TypeScript.</h3>
 
 <a href="https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/ihorantiukhov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -9,10 +9,10 @@
 
 ## About me
 
-+ :computer: I just learned **algorithms and data structures**
-+ :camera: I used to make videos on **YouTube**
-+ :robot: I have done a lot of **Arduino** projects
-+ :iphone: I used to create **Android** apps in Kotlin
++ :book: I am currently studying **Backend** development.
++ :computer: I have experience interning as a **Frontend developer**.
++ :robot: I used to create **Arduino** projects and make videos about it on **YouTube**.
++ :earth_africa: I live in **Ukraine**.
 
 ## Languages and tools
 
