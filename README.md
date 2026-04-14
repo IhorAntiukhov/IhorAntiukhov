@@ -5,19 +5,26 @@
 <a href="https://www.youtube.com/channel/UCCCJ-h7zSm2gPA1MIZSeYPQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://t.me/ihorantiukhov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://leetcode.com/u/IhorAntiukhov/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+
 </div>
 
 ## About me
 
-+ :book: I am currently studying **Backend** development.
-+ :computer: I have experience interning as a **Frontend developer**.
-+ :robot: I used to create **Arduino** projects and make videos about it on **YouTube**.
-+ :earth_africa: I live in **Ukraine**.
+- :book: I am currently studying **Backend** development.
+- :computer: I have experience interning as a **Frontend developer**.
+- :robot: I used to create **Arduino** projects and make videos about it on **YouTube**.
+- :earth_africa: I live in **Ukraine**.
 
 ## Languages and tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
@@ -37,6 +44,7 @@
 ## Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+
 - [Умный дом из предыдущих проектов на ESP8266 и ESP32](https://www.youtube.com/watch?v=ObBi3VIdf44)
 - [Умный WiFi обогреватель поддерживающий температуру на ESP8266](https://www.youtube.com/watch?v=4tR2fXaSKr4)
 - [Считывание показаний счётчика на ESP32-CAM](https://www.youtube.com/watch?v=txgsXdb_OfQ)
